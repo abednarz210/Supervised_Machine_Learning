@@ -3,7 +3,7 @@
 ## Predicting Credit Risk
 Build a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not.
 
-![Machine Learning]https://miro.medium.com/max/700/1*ELq-eqnwvsLUjfWNwSsOzQ.jpeg
+![Machine Learning](https://miro.medium.com/max/700/1*ELq-eqnwvsLUjfWNwSsOzQ.jpeg)
 
 
 ## Background
