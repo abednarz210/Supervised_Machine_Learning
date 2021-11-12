@@ -1,6 +1,6 @@
-# Supervised_Machine_Learning
+# Machine Learning: Supervised
 
-Predicting Credit Risk
+## Predicting Credit Risk
 Build a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not.
 
 ## Background
@@ -15,4 +15,4 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 * Fit a LogisticRegression model and RandomForestClassifier model
 
 
-** Results 
+## Results 
