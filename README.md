@@ -19,3 +19,10 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 
 
 ## Results 
+
+![Credit Score](https://miro.medium.com/max/1400/1*UDi7KpyFX8gwV1k7aeMS-g.jpeg)
+
+
+#### Image Credits
+https://medium.com/@amirmehrbakhsh/credit-scores-2-0-how-ai-and-machine-learning-will-revamp-how-we-evaluate-credit-worthiness-f97d5e1e6de1
+https://medium.com/henry-jia/how-to-score-your-credit-1c08dd73e2ed
