@@ -20,6 +20,8 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 
 ## Results 
 
+The Random Forest Classifier Model after scaling performed better than the Logistic Regression model when scaled as previously predicted. The inital Random Forest Classifer training score was 0.79 and test score was 1.0. 
+
 ![Credit Score](https://miro.medium.com/max/1400/1*UDi7KpyFX8gwV1k7aeMS-g.jpeg)
 
 
