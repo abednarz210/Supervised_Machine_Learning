@@ -14,7 +14,7 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 
 * Convert categorical data to numeric
 * Consider the models
-* Create and compare two models on this data: a logistic regression, and a random forests classifier.
+* Create and compare two models on this data: a logistic regression, and a random forest classifier.
 * Fit a LogisticRegression model and RandomForestClassifier model
 
 
